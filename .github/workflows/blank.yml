@@ -1,0 +1,9 @@
+# plugin.yml
+name: RTPMenu
+version: 1.0
+main: com.fiatx2.rtp.RTPMenu
+api-version: "1.21"
+commands:
+  rtp:
+    description: Random teleport menu
+
